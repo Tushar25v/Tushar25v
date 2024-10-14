@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/tushar_varale" target="blank"><img src="https://img.shields.io/twitter/follow/tushar_varale?logo=twitter&style=for-the-badge" alt="tushar_varale" /></a> </p>
 
-- 🔭 I’m currently working on **Image processing**
+- 🔭 I’m currently working on **Screener**
 
 - 🌱 I’m currently learning **Django**
 
