@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **tushar.000varale@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1J71VNyApW7Zb-CVzHLWbzqoikdAQEr31/view?usp=drive_link](https://drive.google.com/file/d/1J71VNyApW7Zb-CVzHLWbzqoikdAQEr31/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1J71VNyApW7Zb-CVzHLWbzqoikdAQEr31/view?usp=drive_link]([https://drive.google.com/file/d/1J71VNyApW7Zb-CVzHLWbzqoikdAQEr31/view?usp=drive_link](https://drive.google.com/file/d/1gECB_K_Pb4bi4prdPCboBwvNCL2FGY-t/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
